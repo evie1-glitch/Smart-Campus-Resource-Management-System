@@ -304,7 +304,7 @@ This project was created using concepts covered in **CSE2006 Programming in Java
 
 ## 22. Author
 
-**Name:** Your Name
+**Name:**Eshita Parihar
 **Course:** CSE2006 – Programming in Java
 **Project:** Smart Campus Resource Management System
 
